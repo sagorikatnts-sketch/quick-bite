@@ -1,0 +1,6 @@
+{
+  "name": "QuickBite - Food Delivery & Code Scanner",
+  "description": "Modern food delivery platform with camera barcode/QR scanner, Cash on Delivery, order tracking, and restaurant dashboard.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
